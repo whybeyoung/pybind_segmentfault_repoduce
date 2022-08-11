@@ -1,0 +1,6 @@
+-r requirements/build.txt
+-r requirements/optional.txt
+-r requirements/runtime.txt
+-r requirements/tests.txt
+mmcv-full==1.6.0
+mmdet==2.24.0
